@@ -39,8 +39,7 @@
   ],
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0",
-    "sortablejs": "https://github.com/kjavier/Sortable/tarball/1.5.0-rc1.2"
+    "react-dom": "^0.14.0 || ^15.0.0"
   },
   "dependencies": {},
   "devDependencies": {
